@@ -1,0 +1,2 @@
+# hierblog
+curso de platzi
