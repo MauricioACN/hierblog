@@ -8,8 +8,10 @@ body
     padding: 0;
 }
  
-#cabecera
+#cabecera #logo
 {
+    width: 50px;
+    vertical-align: middle;
     background: #33A;
     box-shadow: 0px 5 px 30px 0px rgba(0, 0, 0, 0.75);
     color: white;
